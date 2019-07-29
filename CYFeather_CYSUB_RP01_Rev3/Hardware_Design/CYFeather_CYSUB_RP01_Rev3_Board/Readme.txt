@@ -1,0 +1,1 @@
+This repositary contains CYFeather_CYSUB_RP01_Rev3 Boards hardware design related documents
